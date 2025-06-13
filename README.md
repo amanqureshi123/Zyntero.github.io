@@ -1,1 +1,1 @@
-# Zyntero.github.io
+zyntero.github.io
